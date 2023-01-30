@@ -26,9 +26,7 @@ header h1 .seo {
 }
 
 header {
-    padding-top: 15px;
-    margin-right: 20px;
-    margin: auto;
+    padding-top: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
@@ -44,13 +42,15 @@ header ul li {
 }
 
 nav {
-    display: inline-block;
-    margin-left: 700px;    
+    position: absolute;
+    right: 40px;
+    top: 35px;     
 }
 
 a {
     color: #ffffff;
     text-decoration: none;
+
 }
 
 p {
